@@ -1,5 +1,7 @@
 # MyBookMarks
-Just a Markdown file of some cool repos I like so I can clean up my github
+Just a Markdown file of some cool repos I like so I can clean up my github. 
+
+## :star2: If you find it helpfull, please give it a star :star2:
 
 
 ### React/ Javascript
@@ -10,13 +12,11 @@ Just a Markdown file of some cool repos I like so I can clean up my github
 * [learn-typescript](https://github.com/Mutesa-Cedric/learn-typescript)- this is a repo containing typescript learning journey. Contains everything you need to know from beginner to expert.
 * [Chat With Flutter And Firebase](https://github.com/Umar-Waseem/Chat-Flutter-Firebase)- A full stack real time chatting app with Flutter and Firebase CRUD operaions.
 * []()
-* []()
-* []()
-* []()
 
-Styles and features
+### Styles and features
 ---
 * [parallax.js](https://github.com/wagerfield/parallax)- Parallax Engine that reacts to the orientation of a smart device. Where no gyroscope or motion detection hardware is available, the position of the cursor is used instead.
+* [Rellax](https://github.com/dixonandmoe/rellax)- Rellax is a buttery smooth, super lightweight, vanilla javascript parallax library. Update: Rellax now works on mobile (v1.0.0).
 * [Hover.css](https://github.com/IanLunn/Hover)- A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 * [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap)- React-Bootstrap is compatible with various versions of Bootstrap. As such, you need to ensure you are using the correct combination of versions.
 * [React-Motion](https://github.com/chenglou/react-motion)- For 95% of use-cases of animating components, we don't have to resort to using hard-coded easing curves and duration. Set up a stiffness and damping for your UI element, and let the magic of physics take care of the rest. This way, you don't have to worry about petty situations such as interrupted animation behavior. It also greatly simplifies the API.
@@ -24,14 +24,8 @@ Styles and features
 For the first time, designers can create and ship beautiful animations without an engineer painstakingly recreating it by hand. They say a picture is worth 1,000 words so here are 13,000:
 * [Awesome Illustrations 4 Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects)- Improve your projects using these awesome illustrations. 
 * [Mo.js](https://github.com/mojs/mojs)- mo · js is a javascript motion graphics library that is a fast, retina ready, modular and open source. In comparison to other libraries, it has a different syntax and code animation structure approach. The declarative API provides you a complete control over the animation, making it customizable with ease.
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [svg-mesh-3d](https://github.com/mattdesl/svg-mesh-3d)- A high-level module to convert a SVG <path> string into a 3D triangulated mesh. Best suited for silhouettes, like font icon SVGs.
+* [Flat Surface Shader [FSS]](https://github.com/wagerfield/flat-surface-shader)- Simple, lightweight Flat Surface Shader written in JavaScript for rendering lit Triangles to a number of contexts. Currently there is support for WebGL, Canvas 2D and SVG.
 * []()
 
 ### BookMarks of BookMark Repos
@@ -42,33 +36,17 @@ For the first time, designers can create and ship beautiful animations without a
 * [Get FREE Student Offers List!](https://github.com/ShreyamMaity/student-offers)- A Collection Of All Free Student Offers & Discount while you are a student.
 * [100+ Free resources for learning Full Stack Web Development.](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)- Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please subscribe to the once-weekly newsletter!
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+
 ### Learning Platforms/ Education 
 ---
 * [CODINGSPACE](https://github.com/rishipurwar1/coding-space)- CodingSpace is the platform where we aim to provide lots of different real-world UI-based challenges that can help developers to improve their web development skills.
 * [In Pursuits of Full Stack Development with JS](https://github.com/siwalikm/Prep-for-Full-Stack-JS)- A to-do list for preparing to be a Full Stack JS Developer
 * [Learn-Earn-in-WEB3](https://github.com/Vikash-8090-Yadav/Learn-Earn-in-WEB3)- As we all know that the blockchain is the most rated , in demand technology.So for this am planning to list all the website/organization which help's beginner to learn blockchain 😄 with earning Anyone can upskill their knowledge ,showcase your project ,skill and learn more. Most important thing is that you will also get job(full time / intern) on the basis of your skill,project and performance. So what are you waiting for Go and sign up , ♥️ Welcome to learn with earn process, enjoy the path 🤟
+* []()
 
 ### Python
 ---
 * [Cool-Scripts-Python-Nerds](https://github.com/amandp13/Cool-Scripts-Python-Nerds)- A curated collection of awesome Python scripts from basic to advance with automation task scripts. This is the project from which you can learn that how to contribute a open source contest and specially during in Open source contest as a Pythonerd.
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 * []()
 
 ### HTML & CSS
@@ -77,29 +55,15 @@ For the first time, designers can create and ship beautiful animations without a
 So I collect most popular layouts and components that can be built with pure CSS. They are powered by modern CSS features such as flexbox and grid.
 They are great starting points to be picked and customized easily for each specific need. By composing them, you can have any possible layout that exists in the real life.
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 ### Games on GitHub
 ---
 * [Games on GitHub](https://github.com/leereilly/games)- Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
-
 
 ### Hosting
 ---
 * [Arafat-Host](https://github.com/proarafat/host)- This is my free Hosting-Domin Company!
-* []()
 * []()
 
 ### Markdown
