@@ -6,9 +6,8 @@ Just a Markdown file of some cool repos I like so I can clean up my github
 * [Firebase Web Snippets](https://github.com/firebase/snippets-web)- This repository holds code snippets used in Web documentation on firebase.google.com. These snippets are part of our documentation and best read in the context of a documentation page rather than used directly. If you're looking to get started with the Firebase Web SDK the best place to start is quickstart-js.
 * [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)- A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques!
 * [Chat-Stream-with-Firebase](https://github.com/Freedisch/Chat-Stream-with-Firebase)- This is a live chat application
-* []()
-* []()
-* []()
+* [Realtime Web Chatapp](https://github.com/devXprite/Chat-World)- This is a simple Realtime Chat app using Firebase. Here you can chat with anyone without Login or SignUP. It helps you to meet new people and make new friends.
+* [learn-typescript](https://github.com/Mutesa-Cedric/learn-typescript)- this is a repo containing typescript learning journey. Contains everything you need to know from beginner to expert.
 * []()
 * []()
 * []()
@@ -23,7 +22,8 @@ Styles and features
 * [React-Motion](https://github.com/chenglou/react-motion)- For 95% of use-cases of animating components, we don't have to resort to using hard-coded easing curves and duration. Set up a stiffness and damping for your UI element, and let the magic of physics take care of the rest. This way, you don't have to worry about petty situations such as interrupted animation behavior. It also greatly simplifies the API.
 * [Lottie for Web, Android, iOS, React Native, and Windows](https://github.com/airbnb/lottie-web)- Lottie is a mobile library for Web, and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile!
 For the first time, designers can create and ship beautiful animations without an engineer painstakingly recreating it by hand. They say a picture is worth 1,000 words so here are 13,000:
-* []()
+* [Awesome Illustrations 4 Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects)- Improve your projects using these awesome illustrations. 
+* [Mo.js](https://github.com/mojs/mojs)- mo · js is a javascript motion graphics library that is a fast, retina ready, modular and open source. In comparison to other libraries, it has a different syntax and code animation structure approach. The declarative API provides you a complete control over the animation, making it customizable with ease.
 * []()
 * []()
 * []()
@@ -39,8 +39,8 @@ For the first time, designers can create and ship beautiful animations without a
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)- Some useful websites for programmers. When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know 😉
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)- This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
 * [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)- Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-* []()
-* []()
+* [Get FREE Student Offers List!](https://github.com/ShreyamMaity/student-offers)- A Collection Of All Free Student Offers & Discount while you are a student.
+* [100+ Free resources for learning Full Stack Web Development.](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)- Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please subscribe to the once-weekly newsletter!
 * []()
 * []()
 * []()
@@ -99,6 +99,9 @@ They are great starting points to be picked and customized easily for each speci
 * [Arafat-Host](https://github.com/proarafat/host)- This is my free Hosting-Domin Company!
 * []()
 * []()
-* []()
+
+### Markdown
+---
+* [markdown emoji](https://gist.github.com/rxaviers/7360908)- Complete list of github markdown emoji markup
 * []()
 * []()
