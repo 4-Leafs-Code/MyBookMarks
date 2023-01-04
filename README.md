@@ -8,7 +8,7 @@ Just a Markdown file of some cool repos I like so I can clean up my github
 * [Chat-Stream-with-Firebase](https://github.com/Freedisch/Chat-Stream-with-Firebase)- This is a live chat application
 * [Realtime Web Chatapp](https://github.com/devXprite/Chat-World)- This is a simple Realtime Chat app using Firebase. Here you can chat with anyone without Login or SignUP. It helps you to meet new people and make new friends.
 * [learn-typescript](https://github.com/Mutesa-Cedric/learn-typescript)- this is a repo containing typescript learning journey. Contains everything you need to know from beginner to expert.
-* []()
+* [Chat With Flutter And Firebase](https://github.com/Umar-Waseem/Chat-Flutter-Firebase)- A full stack real time chatting app with Flutter and Firebase CRUD operaions.
 * []()
 * []()
 * []()
@@ -48,9 +48,11 @@ For the first time, designers can create and ship beautiful animations without a
 * []()
 * []()
 * []()
-* []()
-* []()
-* []()
+### Learning Platforms/ Education 
+---
+* [CODINGSPACE](https://github.com/rishipurwar1/coding-space)- CodingSpace is the platform where we aim to provide lots of different real-world UI-based challenges that can help developers to improve their web development skills.
+* [In Pursuits of Full Stack Development with JS](https://github.com/siwalikm/Prep-for-Full-Stack-JS)- A to-do list for preparing to be a Full Stack JS Developer
+* [Learn-Earn-in-WEB3](https://github.com/Vikash-8090-Yadav/Learn-Earn-in-WEB3)- As we all know that the blockchain is the most rated , in demand technology.So for this am planning to list all the website/organization which help's beginner to learn blockchain 😄 with earning Anyone can upskill their knowledge ,showcase your project ,skill and learn more. Most important thing is that you will also get job(full time / intern) on the basis of your skill,project and performance. So what are you waiting for Go and sign up , ♥️ Welcome to learn with earn process, enjoy the path 🤟
 
 ### Python
 ---
@@ -103,5 +105,5 @@ They are great starting points to be picked and customized easily for each speci
 ### Markdown
 ---
 * [markdown emoji](https://gist.github.com/rxaviers/7360908)- Complete list of github markdown emoji markup
-* []()
+* [GitHub Profile 3D Contrib.](https://github.com/yoshi389111/github-profile-3d-contrib)- This GitHub Action creates a GitHub contribution calendar on a 3D profile image wit hmultiple styles to chose from.
 * []()
