@@ -70,7 +70,7 @@ They are great starting points to be picked and customized easily for each speci
 ---
 * [markdown emoji](https://gist.github.com/rxaviers/7360908)- Complete list of github markdown emoji markup
 * [GitHub Profile 3D Contrib.](https://github.com/yoshi389111/github-profile-3d-contrib)- This GitHub Action creates a GitHub contribution calendar on a 3D profile image wit hmultiple styles to chose from.
-* []()
+* [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)- This cheat sheet is automatically generated from GitHub Emoji API and Unicode Full Emoji List.
   
 ### 4-Leafs-Code Repos
 ---
