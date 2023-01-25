@@ -77,8 +77,6 @@ They are great starting points to be picked and customized easily for each speci
 ---
 * [Maine Prisoner Reentry Resources](https://github.com/4-Leafs-Code/Reentry)- OPEN SOURCE, Help Wanted: A Networking site build for the reentry advocates of Maine. I've had alot of awesome people from around the world pitch in and help me make this site for a great cause. It's fun colaborating with like minded people while learning and teaching at the same time. Come take a look... 
 * [4-Leafs-Pet](https://github.com/4-Leafs-Code/4-leafs-pet)- OPEN SOURCE: This virtual pet was my final project for Spring22 MIT 6.0001 Course. (MVP). I've donated this game to the community for them to play with, pass it around, have some fun togather doing what we love! Do what you like, what ever makes you happy!
-* [Project Reclass: ToyNet-React](https://github.com/Project-Reclass/toynet-react)- OPEN SOURCE, Help Wanted: The frontend service for ToyNet emulator and learning platform. I'm currently a mentee of this wonderfull non-profit orginization. Pop over and pick up an issue.
-* [Project Reclass: ToyNet-Flask](https://github.com/Project-Reclass/toynet-flask)- OPEN SOURCE, Help Wanted: Backend service of ToyNet emulator and learning platform. The toynet project is a great experience if your wondering what if feels like to work on an orginizational level. It's am excelent practice run of what to expect, coding wise, when you land a job in that big company! My mentors are all wonderfull people doing something for the greater good. 
 * [4-Leafs-Code.github.io](https://4-leafs-code.github.io/)- My personal profile
 * []()
 
