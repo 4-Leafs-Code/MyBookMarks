@@ -59,7 +59,8 @@ They are great starting points to be picked and customized easily for each speci
 ### Games on GitHub
 ---
 * [Games on GitHub](https://github.com/leereilly/games)- Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
-* []()
+* [untitled-dice](https://github.com/untitled-dice/untitled-dice.github.io)- Untitled Dice is a bare-bones bitcoin dice casino built on top of the Moneypot.com gambling API that lets anyone run their own dice site by forking this project.
+* [Lucifier129.github.io](https://github.com/Lucifier129/Lucifier129.github.io)- This test is designed to explore the processing capabilities of browsers. **Picture Puzzle game**
 
 ### Hosting
 ---
@@ -72,6 +73,32 @@ They are great starting points to be picked and customized easily for each speci
 * [GitHub Profile 3D Contrib.](https://github.com/yoshi389111/github-profile-3d-contrib)- This GitHub Action creates a GitHub contribution calendar on a 3D profile image wit hmultiple styles to chose from.
 * [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)- This cheat sheet is automatically generated from GitHub Emoji API and Unicode Full Emoji List.
 * [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools)- A curated list of awesome GitHub Profile READMEs 📝 with alist of the tools used to make these READMEs
+  
+  
+### Good Repos for Begginers 
+* [First Contributions](https://github.com/firstcontributions/firstcontributions.github.io)- A Web app to help find open source projects for First Contributions
+* []()
+* []()
+* []()
+* []()
+  
+### Cool Portfolios 
+* [#anuraghazra](https://github.com/anuraghazra/anuraghazra.github.io)- My Portfolio Site | Made With @gatsbyjs
+* []()
+* []()
+* []()
+* []()
+* []()
+  
+  
+### Neat Things I found that might be usefull someday
+* [WaveDrom editor](https://github.com/wavedrom/wavedrom.github.io)- WaveDromEditor is real-time editor of digital timing diagrams based on WaveDrom engine and WaveJSON format.
+* []()
+* []()
+* []()
+* []()
+* []()
+  
   
 ### 4-Leafs-Code Repos
 ---
