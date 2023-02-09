@@ -73,6 +73,7 @@ They are great starting points to be picked and customized easily for each speci
 * [GitHub Profile 3D Contrib.](https://github.com/yoshi389111/github-profile-3d-contrib)- This GitHub Action creates a GitHub contribution calendar on a 3D profile image wit hmultiple styles to chose from.
 * [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)- This cheat sheet is automatically generated from GitHub Emoji API and Unicode Full Emoji List.
 * [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools)- A curated list of awesome GitHub Profile READMEs 📝 with alist of the tools used to make these READMEs
+* [Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥](https://github.com/trinib/trinib)- Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your own. ⒺⒶⓈⓎ descriptive layout in editor with links to all 🄵🅴🄰🆃🅄🆁🄴🆂 . Readme chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ ▓▒░🔴Connect Dot🟡░…
   
   
 ### Good Repos for Begginers 
