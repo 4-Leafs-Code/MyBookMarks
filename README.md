@@ -108,3 +108,23 @@ They are great starting points to be picked and customized easily for each speci
 * [4-Leafs-Code.github.io](https://4-leafs-code.github.io/)- My personal profile
 * []()
 
+### Make Money Online and Freelancing sites
+* [Amazon Mechanical Turk](https://www.mturk.com/)
+* [www.flexjobs.com](www.flexjobs.com)
+* [www.guru.com](www.guru.com)
+* [www.simplyhired.com](www.simplyhired.com)
+* [www.peopleperhour.com](www.peopleperhour.com)
+* [https://enrollapp.com/](https://enrollapp.com/)
+* [https://community.snapwire.co/](https://community.snapwire.co/)
+* [https://www.usertesting.com/](https://www.usertesting.com/)
+* [fiverr](https://www.fiverr.com/)
+* [upwork](upwork.com)
+* [freelancer](www.freelancer.com)
+* [clearvoice](www.clearvoice.com)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
