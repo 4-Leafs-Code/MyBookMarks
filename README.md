@@ -121,9 +121,9 @@ They are great starting points to be picked and customized easily for each speci
 * [upwork](upwork.com)
 * [freelancer](www.freelancer.com)
 * [clearvoice](www.clearvoice.com)
-* []()
-* []()
-* []()
+* [contra](https://contra.com/)- Work the way, you want. Your freelance journey starts here.
+* [revolancer](https://revolancer.com/)
+* [legiit](https://legiit.com/)
 * []()
 * []()
 * []()
