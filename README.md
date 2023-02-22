@@ -47,7 +47,7 @@ For the first time, designers can create and ship beautiful animations without a
 ### Python
 ---
 * [Cool-Scripts-Python-Nerds](https://github.com/amandp13/Cool-Scripts-Python-Nerds)- A curated collection of awesome Python scripts from basic to advance with automation task scripts. This is the project from which you can learn that how to contribute a open source contest and specially during in Open source contest as a Pythonerd.
-* [Frozen-flask-doc](https://john-b-yang.github.io/flask-website/)
+* [Static-Websites-with-Frozen-Flask](https://john-b-yang.github.io/flask-website/)
 
 ### HTML & CSS
 * [reveal.js](https://github.com/hakimel/reveal.js)- reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create beautiful presentations for free. Check out the live demo at revealjs.com.
